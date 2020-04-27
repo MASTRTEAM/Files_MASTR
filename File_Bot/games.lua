@@ -508,5 +508,5 @@ end
 
 end
 return {
-Mastr = games
+MASTR = games
 }
