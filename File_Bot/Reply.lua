@@ -297,5 +297,5 @@ end
 
 end
 return {
-Mastr = Reply
+MASTR = Reply
 }
